@@ -1,21 +1,3 @@
-# EMART Inventory Management System
-
-A modern inventory management system for EMART grocery shop built with Next.js and MongoDB.
-
-## Features
-
-- Product management (add, view, update, delete)
-- Category-based organization
-- Real-time inventory tracking
-- Responsive design
-- Modern UI with Tailwind CSS
-
-## Prerequisites
-
-- Node.js 18.x or later
-- MongoDB installed and running locally
-- npm or yarn package manager
-
 ## Getting Started
 
 1. Clone the repository:
